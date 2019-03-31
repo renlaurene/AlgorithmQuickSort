@@ -1,4 +1,5 @@
-# AlgorithmQuickSorttestAlgorithmQuickSortMethod in java code 
+# AlgorithmQuickSort
+testAlgorithmQuickSortMethod in java code 
  Java program for implementation of QuickSort
 This function takes last element as pivot, places the pivot element at its correct position in sorted array, and places all smaller (smaller than pivot) to left of pivot and all greater elements to right of pivot. 
 
